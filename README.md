@@ -6,6 +6,6 @@ You place wood, steel, concrete, cable, and road beams between grid points withi
 
 This app is checked every morning by Control Troll.
 
-Latest change. Doubled the tower levels to twelve with tighter budgets, added cables for guy wires, and added twelve bridge levels with road beams and a truck crossing.
+Latest change. 2026-11-05, v2026.11.05. Rebuilt the game with a light theme, a real truss physics engine, a level picker, undo, erase, saved builds, and a phone friendly layout. There are now twelve tower levels with tighter budgets, cables for guy wires, and twelve bridge levels with road beams and a truck crossing.
 
 See CHANGELOG.md for the full history.
